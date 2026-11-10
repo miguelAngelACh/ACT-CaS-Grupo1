@@ -1,0 +1,6 @@
+﻿id,departamento,provincia,distrito,enfermedad,ano,semana,edad,tipo_edad,sexo,motivo_rechazo
+6,Junín,Huancayo,El Tambo,Rabia Silvestre,2024,15,,A,M,Edad no especificada o nula
+11,Cusco,La Convención,Santa Ana,Leptospirosis,2024,18,34.0,X,F,"Tipo de edad 'X' inválido (requerido: A, M, D)"
+14,Arequipa,Caylloma,Majes,Carbunco,2024,78,41.0,A,M,"Semana epidemiológica 78 fuera de rango [1, 53]"
+17,San Martín,San Martín,Tarapoto,Leptospirosis,2099,20,19.0,A,F,"Año 2099 fuera del rango histórico/actual permitido [2000, 2026]"
+20,Huánuco,Leoncio Prado,Rupa-Rupa,Rabia Silvestre,2024,22,-5.0,A,M,Edad negativa (-5.0) fuera de límites permisibles

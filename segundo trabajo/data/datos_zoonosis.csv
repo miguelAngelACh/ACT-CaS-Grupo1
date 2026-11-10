@@ -1,0 +1,22 @@
+id,departamento,provincia,distrito,enfermedad,ano,semana,edad,tipo_edad,sexo
+1,Junín,Huancayo,El Tambo,Rabia Silvestre,2024,12,35,A,M
+2,Arequipa,Arequipa,Cerro Colorado,Brucelosis,2024,12,28,A,F
+3,Cusco,La Convención,Santa Ana,Leptospirosis,2024,12,42,A,M
+4,Puno,San Román,Juliaca,Carbunco,2024,14,50,A,M
+5,San Martín,San Martín,Tarapoto,Leptospirosis,2024,14,19,A,F
+6,Junín,Huancayo,El Tambo,Rabia Silvestre,2024,15,,A,M
+7,Loreto,Maynas,Iquitos,Leptospirosis,2024,15,6,M,M
+8,Ayacucho,Huamanga,Ayacucho,Brucelosis,2024,15,63,A,F
+9,Cajamarca,Chota,Chota,Carbunco,2024,16,45,A,M
+10,Huánuco,Leoncio Prado,Rupa-Rupa,Rabia Silvestre,2024,16,11,D,F
+11,Cusco,La Convención,Santa Ana,Leptospirosis,2024,18,34,X,F
+12,Lima,Lima,San Juan de Lurigancho,Brucelosis,2024,18,52,A,M
+13,Junín,Tarma,Tarma,Rabia Silvestre,2024,18,29,A,F
+14,Arequipa,Caylloma,Majes,Carbunco,2024,78,41,A,M
+15,San Martín,Moyobamba,Moyobamba,Leptospirosis,2024,20,38,A,M
+16,Loreto,Alto Amazonas,Yurimaguas,Leptospirosis,2024,20,24,A,F
+17,San Martín,San Martín,Tarapoto,Leptospirosis,2099,20,19,A,F
+18,Arequipa,Arequipa,Paucarpata,Brucelosis,2024,21,47,A,M
+19,Cusco,Cusco,Santiago,Peste Bubónica,2024,21,15,A,F
+20,Huánuco,Leoncio Prado,Rupa-Rupa,Rabia Silvestre,2024,22,-5,A,M
+
